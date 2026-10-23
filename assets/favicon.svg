@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bloomfield Animal Clinic">
+  <!-- the little house on the avenue, with a paw whose big pad is a heart; toes kept clear of the heart -->
+  <path d="M32 5 58 25.5V53a7 7 0 0 1-7 7H13a7 7 0 0 1-7-7V25.5Z" fill="#713845" stroke="#713845" stroke-width="4" stroke-linejoin="round"/>
+  <g fill="#fff7f1" transform="translate(32 38.5) scale(.82) translate(-32 -39)">
+    <ellipse cx="17.6" cy="31.8" rx="3.6" ry="4.5" transform="rotate(-26 17.6 31.8)"/>
+    <ellipse cx="26.4" cy="24.6" rx="3.8" ry="4.8" transform="rotate(-9 26.4 24.6)"/>
+    <ellipse cx="37.6" cy="24.6" rx="3.8" ry="4.8" transform="rotate(9 37.6 24.6)"/>
+    <ellipse cx="46.4" cy="31.8" rx="3.6" ry="4.5" transform="rotate(26 46.4 31.8)"/>
+    <path transform="translate(32 47) scale(.9) translate(-32 -46)" d="M32 54.5c-10.6-6.8-12.4-13-8.4-16.4 3-2.5 6.6-1.1 8.4 1.9 1.8-3 5.4-4.4 8.4-1.9 4 3.4 2.2 9.6-8.4 16.4Z"/>
+  </g>
+</svg>
